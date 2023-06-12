@@ -1,7 +1,7 @@
 /* style.css */
 
 * {
-  font-family: sans-serif;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
 body {
@@ -66,6 +66,19 @@ main>section {
   max-width: 400px;
   row-gap: 20px;
   width: 100%;
+}
+
+button {
+  background-color: lightblue;
+  font-size: 20px;
+}
+
+select {
+  font-size: 20px;
+}
+
+option {
+  font-size: 20px;
 }
 
 .hidden {
